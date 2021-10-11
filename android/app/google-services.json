@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837870036501",
+    "project_id": "india-jobin-eda5e",
+    "storage_bucket": "india-jobin-eda5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837870036501:android:0ed379f3bdc3125311101c",
+        "android_client_info": {
+          "package_name": "in_.betasources.indiajobin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837870036501-9doqhrus5ul1tadqqpl95s20sgaegr9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in_.betasources.indiajobin",
+            "certificate_hash": "86e112c2dff397adfcb0225f267cd1e0ce3fc73d"
+          }
+        },
+        {
+          "client_id": "837870036501-19je98tnqp1kqudc4t44okegfnvp1b89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqOHx24NV9D5RRQiGyDPN-q2wrSx_-tvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837870036501-19je98tnqp1kqudc4t44okegfnvp1b89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
